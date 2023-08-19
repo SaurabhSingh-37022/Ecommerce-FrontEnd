@@ -1,4 +1,4 @@
-# apneck
+# Ecommerce Application FrontEnd
 APP.JS
 
 Apneck is a responsive full eccomerce website
